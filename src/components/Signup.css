@@ -1,0 +1,33 @@
+.signup{
+    background-color: transparent !important;
+    border-top-style: double !important;
+    border-top-width: 10px !important;
+    border-top-color: #dbf6e9  !important;
+    border-top-right-radius: 40px !important;
+    border-bottom-style: double !important;
+    border-bottom-width: 10px !important;
+    border-bottom-color: #dbf6e9  !important;
+    border-bottom-left-radius: 40px !important;
+    }
+   
+    .inputField{
+    background-color: transparent !important;
+    border-bottom-color: #dbf6e9  !important;
+    border-top-color: transparent !important;
+    border-left-color: transparent !important;
+    border-right-color: transparent !important;
+    border-bottom-right-radius: 100px !important;
+    border-bottom-left-radius: 50px !important;
+    color:#023047 !important;
+    text-align: center;
+    }
+    
+    .textStyle{
+        color:#023047 !important;
+    }
+    
+    .buttonField{
+        background-color: transparent !important;
+        border-color: #023047 !important;
+        color:#023047 !important
+    }
